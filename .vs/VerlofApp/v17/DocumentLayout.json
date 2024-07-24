@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|c:\\users\\hamba\\source\\repos\\verlofapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|c:\\users\\hamba\\source\\repos\\verlofapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|c:\\users\\hamba\\source\\repos\\verlofapp\\controllers\\leaverequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|solutionrelative:controllers\\leaverequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|c:\\users\\hamba\\source\\repos\\verlofapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|c:\\users\\hamba\\source\\repos\\verlofapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|c:\\users\\hamba\\source\\repos\\verlofapp\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|solutionrelative:models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|c:\\users\\hamba\\source\\repos\\verlofapp\\views\\leaverequests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|solutionrelative:views\\leaverequests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|c:\\users\\hamba\\source\\repos\\verlofapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|c:\\users\\hamba\\source\\repos\\verlofapp\\views\\leaverequests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|solutionrelative:views\\leaverequests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|c:\\users\\hamba\\source\\repos\\verlofapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|c:\\users\\hamba\\source\\repos\\verlofapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|c:\\users\\hamba\\source\\repos\\verlofapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B597E4E2-78AB-49C3-8BC5-43BB5AD298C0}|VerlofApp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:57:30.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaveRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Controllers\\LeaveRequestsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeaveRequestsController.cs",
+              "ToolTip": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Controllers\\LeaveRequestsController.cs",
+              "RelativeToolTip": "Controllers\\LeaveRequestsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:16:33.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:07:51.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T04:51:52.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "Models\\LeaveRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:26:05.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:13:39.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:20:16.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Views\\LeaveRequests\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\LeaveRequests\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Views\\LeaveRequests\\Create.cshtml",
+              "RelativeToolTip": "Views\\LeaveRequests\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T05:17:23.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Views\\LeaveRequests\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\LeaveRequests\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Views\\LeaveRequests\\Index.cshtml",
+              "RelativeToolTip": "Views\\LeaveRequests\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T05:17:20.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T03:26:29.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T03:26:44.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hamba\\source\\repos\\VerlofApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:26:19.284Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
